@@ -494,4 +494,4 @@ Teste todos os seletores e propriedades que você aprendeu até agora e debata c
 ## Referências
 - https://developer.mozilla.org/pt-BR/docs/Learn/CSS
 
-< [Voltar para o Índice](../../README.md) | Próxima Aula >
+< [Voltar para o Índice](../../README.md) | [Próxima Aula](./terminais.md) >
