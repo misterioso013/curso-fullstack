@@ -69,7 +69,8 @@ A quinta linha é o fechamento da tag `<body>`. Essa tag indica o fim do corpo d
 
 A sexta linha é o fechamento da tag `<html>`. Essa tag indica o fim do documento HTML.
 
-Agora, salve o arquivo usando o atalho `Ctrl + S` no Windows ou `Cmd + S` no Mac. Salve o arquivo com o nome `index.html` e de preferência crie uma pasta chamada `meu-site` para salvar o arquivo.
+Agora, salve o arquivo usando o atalho `Ctrl + S` no Windows ou `Cmd + S` no Mac.
+Navegue até a pasta `curso-fullstack` e crie uma pasta chamada `modulo1`, dentro dessa pasta, crie outra pasta chamada `meu-site`. Salve o arquivo com o nome `index.html` dentro da pasta `meu-site`.
 
 > É uma boa prática criar uma pasta para cada projeto. Dentro dessa pasta, você pode criar outras pastas para organizar os arquivos do projeto. Por exemplo, uma pasta para os arquivos HTML, uma pasta para os arquivos CSS, uma pasta para os arquivos JavaScript, etc.
 
