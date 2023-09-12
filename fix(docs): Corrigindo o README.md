@@ -48,20 +48,20 @@ E claro, você terá uma certa dificuldade para usar o git e o github, então vo
 - [] Introdução ao JavaScript
 
 ### Módulo 2 - Desenvolvimento Front-end
-- [] HTML
-- [] CSS
-- [] JavaScript
-- [] Github Pages
-- [] Deploy de aplicações web
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+- [ ] Github Pages
+- [ ] Deploy de aplicações web
 
 ### Módulo 3 - Desenvolvimento Back-end
-- [] Introdução ao Python
-- [] Python Orientado a Objetos
-- [] Tkinter (Interface Gráfica)
-- [] Flask (APIs)
+- [ ] Introdução ao Python
+- [ ] Python Orientado a Objetos
+- [ ] Tkinter (Interface Gráfica)
+- [ ] Flask (APIs)
 
 ### Módulo 4 - Projeto Final
-- [] Desenvolvimento de uma aplicação web completa
+- [ ] Desenvolvimento de uma aplicação web completa
 
 ## Quem sou eu?
 Meu nome é [Rosiel Victor](https://github.com/misterioso013) e sou desenvolvedor full stack a mais de 5 anos. Atualmente trabalho como desenvolvedor no [All Devs](https://all.dev.br) e sou instrutor de programação e robótica na [codeBuddy](https://codebuddy.com.br).
