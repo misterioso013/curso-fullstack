@@ -45,7 +45,7 @@ E claro, você terá uma certa dificuldade para usar o git e o github, então vo
 - [x] [Introdução ao CSS](./docs/modulo-1/introducao-ao-css.md)
 - [x] [Terminal](./docs/modulo-1/terminais.md) (Windows, Linux e Mac)
 - [x] [Git e Github](./docs/modulo-1/introducao-ao-git-github.md)
-- [] Introdução ao JavaScript
+- [ ] Introdução ao JavaScript
 
 ### Módulo 2 - Desenvolvimento Front-end
 - [ ] HTML
