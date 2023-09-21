@@ -41,8 +41,8 @@ E claro, você terá uma certa dificuldade para usar o git e o github, então vo
 
 ### Módulo 1 - Introdução
 - [x] [Introdução ao desenvolvimento web](./docs/modulo-1/introducao-ao-desenvolvimento-web.md)
-- [x] [Introdução ao HTML](./docs/modulo-1/introducao-ao-html.md)
-- [x] [Introdução ao CSS](./docs/modulo-1/introducao-ao-css.md)
+- [x] [Introdução ao HTML](./docs/modulo-1/introducao-ao-HTML.md)
+- [x] [Introdução ao CSS](./docs/modulo-1/introducao-ao-CSS.md)
 - [x] [Terminal](./docs/modulo-1/terminais.md) (Windows, Linux e Mac)
 - [x] [Git e Github](./docs/modulo-1/introducao-ao-git-github.md)
 - [ ] Introdução ao JavaScript
